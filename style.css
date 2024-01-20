@@ -9,21 +9,23 @@ header {
   height: 80px;
   background-color: #EC715F;
   text-align: center;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
 }
 
 .nav-logo {
   height: 70px;
 }
 
-li {
+ul {
   display: flex;
-  justify-content: flex-end;
+  list-style: none;
 }
 
-li > :first-child {
-  list-style: none;
-  display: inline-block;
-  margin-right: auto;
+li {
+  margin-left: 30px;
+  color: #FAFAFA;
 }
 
 .main-visual {
