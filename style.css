@@ -170,6 +170,32 @@ li {
   margin: 30px auto;
 }
 
+.Feature-Strength-content {
+  width: 980px;
+  /*margin: 0px auto;*/
+  display: flex;
+}
+
+.Strength-box {
+  width: 320px;
+  margin-right: 10px;
+  text-align: center;
+  position: relative;
+  background-color: #EEEEEE;
+}
+
+.title {
+  font-size: 20px;
+  color: #000000;
+  margin: 10px auto;
+}
+
+.text {
+  font-size: 16px;
+  color: #000000;
+  text-align: left;
+}
+
 .main-3 {
   width: 100%;
   height: 800px;
