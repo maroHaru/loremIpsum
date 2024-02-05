@@ -240,6 +240,7 @@ li {
   width: 250px;
   height: 250px;
   background-image: url(img/my-icon.jpg);
+  border-radius: 50%;
   background-position: center;
   background-size: cover;
   display: flex;
